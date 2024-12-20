@@ -8,8 +8,8 @@
 		"Piofox4"
 	],
 	"contact": {
-		"homepage": "",
-		"sources": ""
+		"homepage": "https://github.com/Piofox4",
+		"sources": "https://github.com/Piofox4/FoxFurnace"
 	},
 	"license": "MIT",
 	"icon": "assets/foxfurnace/icon.png",
